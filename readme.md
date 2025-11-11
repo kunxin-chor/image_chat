@@ -1,8 +1,3 @@
-# Dependencies
-
-```
-pip -q install --upgrade gradio google-genai pillow python-dotenv 
-```
 
 # Setup Instructions
 
